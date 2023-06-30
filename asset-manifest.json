@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6dcabbc9.css",
-    "main.js": "/static/js/main.165dfc56.js",
+    "main.js": "/static/js/main.3d18f49e.js",
     "static/media/MyImage.png": "/static/media/MyImage.7dd94d1f554af6998ed1.png",
     "static/media/project_person1.png": "/static/media/project_person1.71c87abb0c1a044e2943.png",
     "static/media/p-1.png": "/static/media/p-1.87eeb7ad4ebe5e0927ce.png",
@@ -12,10 +12,10 @@
     "static/media/Sagar-Pawar-Resume.pdf": "/static/media/Sagar-Pawar-Resume.636ecd3a959c39801abb.pdf",
     "index.html": "/index.html",
     "main.6dcabbc9.css.map": "/static/css/main.6dcabbc9.css.map",
-    "main.165dfc56.js.map": "/static/js/main.165dfc56.js.map"
+    "main.3d18f49e.js.map": "/static/js/main.3d18f49e.js.map"
   },
   "entrypoints": [
     "static/css/main.6dcabbc9.css",
-    "static/js/main.165dfc56.js"
+    "static/js/main.3d18f49e.js"
   ]
 }
